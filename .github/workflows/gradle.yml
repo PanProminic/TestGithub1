@@ -37,4 +37,4 @@ jobs:
       with:
           name: dist
           path: |
-            app/build/**/app.jar
+            app/build/libs/app.jar
